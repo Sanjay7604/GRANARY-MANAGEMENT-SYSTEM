@@ -1,0 +1,9 @@
+Arduino Nano
+Esp32-Wroom (8mb flash - 38 pins)
+OLED 128x64
+DHT 11
+MQ - 2
+LDR Sensor
+Bread Board
+Jumper Wires
+
